@@ -39,7 +39,7 @@ Whether you're building a freeroam server, an RP environment, or a unique custom
 ## Installation
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/filterscript-samp.git
+   git clone https://github.com/MrCypher4/filterscript-samp.git
 2. Add the .pwn files you need to your server's filterscripts/ directory.
 3. Compile each .pwn file using the PAWN compiler (included with SA-MP server package).
 4. Edit your server.cfg:
